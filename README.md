@@ -1,6 +1,6 @@
 # Pizza sales and revenue Data Analysis using SQL
 
-![Netflix_logo](https://github.com/Govind2307/Data-Analysis-Using-SQL/blob/master/netflix%20logo.png)
+![Netflix_logo](https://github.com/Govind2307/Pizza-sales-Data-Analysis/blob/master/photo-1513104890138-7c749659a591.jpeg)
 ## Overview
 This project involves a comprehensive analysis of pizza sales and revenue data using SQL. The objective is to extract valuable insights and answer key business questions related to sales performance, customer preferences, and revenue trends.
 
